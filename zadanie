@@ -1,0 +1,48 @@
+<!DOCTYPE html >
+<html>
+<head>
+    <title>Tytuł strony</title>
+	
+     <!-- naglowek dokumentu -->
+	
+</head>
+<article>                              <!-- 1 przyklad -->
+   <h1>Serwisy spolecznosciowe</h1>
+      <section>                        <!-- 2 przyklad -->
+         <h2>Facebook</h2>
+         <p>aaaaaaaaa</p> 
+      </section> 
+      <section>
+         <h3>Instagram</h2>         
+      </section>
+      <section>                        <!-- 2 przyklad -->
+         <h4>Youtube</h2>
+         <p>bbbbbbbbb</p>
+      </section>
+</article> 
+<section> przyklad 2 </section> 
+ <body>
+        <body style="background-color: #808080;
+	
+    <div class="div-1"> coS </div>          <!--3 przyklad -->
+    <div class="div-2"> cOscOs </div>           
+    <div class="div-3"> CosCosCos </div>   
+	<h1> Najwazniejszy naglowek</h1>         <!--4 przyklad -->
+	<h2> Dodatkowy naglowek</h2>
+	<h3> Dodatkowy naglowek</h3>
+        <h4> Dodatkowy naglowek</h4>
+	 
+	 
+
+</html>
+
+<!--1. Article (1przyklad) stosujemy do wszystkich rzeczy takich jak posty na blogu, dodatkowe widgety i wszystko, co może być prezentowane samodzielnie (np artykuły prezentowane w czytnikach RSS).
+ takie coś powinno mieć możliwy do nadania, sensowny tytuł 
+ Section (2przyklad) to z kolei pewna część strony spójna tematycznie, której można nadać wspólny nagłówek.
+ nie jest ona tak niezależna jak artykuł - artykuł może funkcjonować samodzielnie, podczas gdy sekcja z założenia jest częścią czegoś
+<!--2. Akapit (paragraf) tekstu, to znacznik <p>. Znacznik <p> w prosty i skuteczny sposób pozwala stworzyć
+ pożądany podział dłuższego tekstu na latwiejsze do strawienia akapity
+<!--3.Element blokowy <div> (3przyklad) służy do budowy sekcji, nazywany również box’em lub
+  kontenerem, z tego względu, że zawiera on w sobie inne elementy.
+<!--4.Znaczniki <h1> i <h2> (4przyklad) to nagłówki,ktore są elementami ogólnego planu strony. Stanowią one odzwierciedlenie struktury tekstu.
+ Różnica polega na tym, że <h1> jest z reguły najwazniejszym nagłówekiem a reszta nagłówków są dodatkowe.
